@@ -1,1 +1,3 @@
-# virtual-sticky-notes-organizer-7791
+# Project Repository
+
+This is the initial README file for the project.
